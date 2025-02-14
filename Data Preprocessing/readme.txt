@@ -1,4 +1,4 @@
-For Data Augmentation, we are using the jackaduma/SecBERT model in which masked words context is used:
+For Data Augmentation, we are using the jackaduma/SecBERT model in which masked words concept is used. This could be better understood with the help of below example.
 
 ✅ Original sentence:
 "I received random calls and abusive messages on my WhatsApp."
