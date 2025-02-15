@@ -1,3 +1,4 @@
+### **1. Data Augmentation**
 For Data Augmentation, we are using the jackaduma/SecBERT model in which masked words concept is used. This could be better understood with the help of below example.
 
 ✅ Original sentence:
@@ -14,7 +15,7 @@ The model will then predict possible words to replace [MASK], such as:
 🔹 threatening
 
 The model picks one of these words and reconstructs the sentence.
-### **1. Data Augmentation**
+
 
 The first step in preprocessing is **data augmentation**. This enhances the dataset by generating variations of existing data, helping improve model generalization. Augmentation methods include:
 
